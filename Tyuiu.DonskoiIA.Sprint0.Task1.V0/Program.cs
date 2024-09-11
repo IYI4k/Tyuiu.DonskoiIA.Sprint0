@@ -11,7 +11,7 @@ namespace Tyuiu.DonskoiIA.Sprint0.Task0.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            string name = "Донской Иван";
+            string name = "Донской Ива";
             int age = 19;
             Console.WriteLine("Здравствуйте, меня зовут " + name + " мне " + age + " лет.");
             Console.ReadKey();
